@@ -4,6 +4,7 @@
 Project Planning
 - Login/Sign Up page
   - Sign in/Sign up form
+  - Form Validation
   - Redirect to browse page after login
 - Browse Page
   - Header
